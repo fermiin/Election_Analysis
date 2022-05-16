@@ -1,7 +1,9 @@
 # Python-Challange
 
 Overview of Election Audit
+
 The purpose of this election audit analysis was to get three additional pieces of data from the provided election results. The goal was to find (1) the voter turnout for each county, (2) percentage of votes from each county out of the total count, (3) the county with the highest voter turnout. 
+
 
 
 Election Audit Results
@@ -18,5 +20,7 @@ Election Audit Results
 - Diana DeGette won the election with 272,892 votes which was 73.8% of the total votes cast.
 
 
+
 Election Audit Summary
+
 With some modifications this script can be used for any election. It can be modified to include the political affiliation of a candidate, and which counties voted for which party. 
